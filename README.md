@@ -22,7 +22,7 @@ React Amplify (Gen 2) Authentication is a template for connecting React Applicat
 ![GitHub stars](https://img.shields.io/github/stars/joealongi/react-amplify-authentication-two?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/joealongi?label=Follow&style=social)
 
 - Website: [joealongi.dev](https://joealongi.dev/)
-- X: [@joealongi](https://twitter.com/joealongi/)
+- X: [@joealongi](https://x.com/joealongi)
 - GitHub: [@joealongi](https://github.com/joealongi/)
 - LinkedIn: [@joe-alongi](https://www.linkedin.com/in/joe-alongi/)
 
